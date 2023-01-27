@@ -1,2 +1,2 @@
 # bookmarker-by-js
-this project craeted by html , css ang pure javascript
+ project craeted by html , css and pure javascript
